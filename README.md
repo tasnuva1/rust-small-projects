@@ -26,7 +26,7 @@
 24. Rust Library Overview: go over the different crates and discuss how they work and what they do for blockchain env (https://youtu.be/pd-XWaGLIck?si=--Irf2PUwntYBN_1) (beginner) 21:18
 25. Making a simple snake game by composing some libraries (https://youtu.be/HCwMb0KslX8?si=A2Cz5uaoEuchuNwT) (beginner) 8:12
 26. Making a compiler part 1, assembly (read first: https://www.codewithharry.com/blogpost/c-cheatsheet/) (https://youtu.be/vcSijrRsrY0?si=3XOObOpIlW8R_r15) (beginner) 1:11:02
-27. part 1-8 (https://youtube.com/playlist?list=PLUDlas_Zy_qC7c5tCgTMYq2idyyT241qs&si=n3GPsyL4Wm3vhZy-) 9h 43m 38s [1:11:03, 10:05:48, 1:29:28, 1:12:18, 1:12:18, 1:12:28, 1:09:45, 1:25:47, 57:01]
+27. part 1-8 (https://youtube.com/playlist?list=PLUDlas_Zy_qC7c5tCgTMYq2idyyT241qs&si=n3GPsyL4Wm3vhZy-) 9h 43m 38s [1:11:03, 1:05:48, 1:29:28, 1:12:18, 1:12:18, 1:12:28, 1:09:45, 1:25:47, 57:01]
 28. Building a real Rust CRATE from scratch to PUBLISHED (https://youtu.be/FzbxAhTqK9s?si=cNkhGVnDaV664utb) (beginner) 34:34
 29. build a full desktop application with rust (https://youtu.be/BY_ZjPGqJJk?si=Mk4BncOxdAbOaTs8) (beginner) 41:56
 30. For more 2 videos on Tauri SurrealDB (https://youtu.be/kRoGYgAuZQE?si=hr8IIOF1cPBN5C2B) (https://youtu.be/iOyvum0D3LM?si=F9sgxrakyrJW7QSa) [19:11, 17:23]
